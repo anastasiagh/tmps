@@ -42,4 +42,4 @@ Protoype pattern lets you copy existing objects without making your code depende
 The Factory design pattern provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 ## Screenshot
-![](lab1/conclusion.png)
+![](src/lab1/images/conclusion.png)
