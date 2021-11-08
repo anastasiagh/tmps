@@ -1,4 +1,3 @@
-package lab1;
 
 class GetPlanFactory{
     public CaesarPrice getCaesarPrice(String coffeeType){

@@ -1,4 +1,3 @@
-package lab1;
 
 public class CaesarBuilderPattern {
     static class Caesar {

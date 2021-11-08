@@ -1,4 +1,3 @@
-package lab1;
 
 abstract class CaesarPrice{
     protected double price;
