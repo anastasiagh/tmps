@@ -80,4 +80,4 @@ public class CaesarMakerFacade {
 ```
 
 ## Screenshot
-![](src/lab1/images/conclusion2.png)
+![](../images/conclusion2.png)
