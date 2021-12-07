@@ -10,7 +10,8 @@ public class CaesarOrderHistory {
         if(existingSalad == null) {
             CaesarType newCaesar = new CaesarType(caesarType);
             orderedSalads.put(caesarType, newCaesar);
-            System.out.println("Creating new salad: " + caesarType);
+            System.out.println("Adding to order history: " + caesarType);
+            System.out.println("History length:" + orderedSalads.size());
             return newCaesar;
         }
 
